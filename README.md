@@ -77,7 +77,7 @@ The **Community Helper Application** is a platform designed to connect volunteer
   _Role: Front-end Developer ,Report & Documentation Writing_
   Ambika focuses on designing and implementing user-friendly interfaces, ensuring a seamless user experience.  
 
-- **👨‍💻 Manan Bhatra**  
+- **👨‍💻 Ashish Rai**  
   _Role: Front-end Developer, Report & Documentation Writing_
   Manan works on developing the front-end components and integrating them with the back-end for a smooth application flow.  
 
