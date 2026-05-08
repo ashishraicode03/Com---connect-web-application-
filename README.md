@@ -79,7 +79,7 @@ The **Community Helper Application** is a platform designed to connect volunteer
 
 - **👨‍💻 Ashish Rai**  
   _Role: Front-end Developer, Report & Documentation Writing_
-  Manan works on developing the front-end components and integrating them with the back-end for a smooth application flow.  
+  Ashish works on developing the front-end components and integrating them with the back-end for a smooth application flow.  
 
 - **🛠️ Chitranshu Garg**  
   _Role: Support Engineer, Report & Documentation Writing_  
